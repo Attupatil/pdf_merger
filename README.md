@@ -1,5 +1,5 @@
 # pdf_merger - BY Atharva Ashok Patil
-This python proogram merges more than two pdf into a single pdf
+#### This python proogram merges more than two pdf into a single pdf
 
 #### This python program mergers  different pdf this is specially designed for applying watermark and combining different pdf into single watermarked pdf
      
